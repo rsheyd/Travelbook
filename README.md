@@ -5,7 +5,7 @@ I created this app with the help of Rob Percival's iOS developer course. It lets
 
 I plan to include features that allow you to see nearby events in the future.
 
-![screenshot of places](https://i.imgur.com/PgPISwD.png) ![screenshot of map](https://i.imgur.com/VWPf1Ra.png)
+![screenshot of places](https://i.imgur.com/PgPISwD.png)  ![screenshot of map](https://i.imgur.com/VWPf1Ra.png)
 
 
 
